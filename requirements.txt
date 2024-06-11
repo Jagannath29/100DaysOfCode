@@ -8,3 +8,4 @@ openpyxl
 mlxtend
 tensorflow
 flask
+opencv-python
