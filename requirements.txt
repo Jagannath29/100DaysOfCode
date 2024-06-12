@@ -9,3 +9,4 @@ mlxtend
 tensorflow
 flask
 opencv-python
+tensorflow-hub
