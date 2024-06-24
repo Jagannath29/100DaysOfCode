@@ -10,3 +10,7 @@ tensorflow
 flask
 opencv-python
 tensorflow-hub
+spacy
+transformers
+
+
