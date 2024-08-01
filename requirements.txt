@@ -12,5 +12,4 @@ opencv-python
 tensorflow-hub
 spacy
 transformers
-
-
+yfinance
